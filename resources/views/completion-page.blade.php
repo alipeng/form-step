@@ -34,7 +34,7 @@
             {{ $title }}
         </div>
         <div class="st-desc">
-            {{ $description }}
+            {!! $description !!}
         </div>
 
         <div class="st-btn">
